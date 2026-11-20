@@ -222,6 +222,16 @@ CONNECTED_DEVICE_SENSORS = {
     ],
     1: [
         {
+            "telemetry_id": 192,
+            "name": "Days to replace filter",
+            "translation_key": "days_to_replace_filter",
+            "unit": "d",
+            "device_class": "duration",
+            "state_class": "measurement",
+            "signed": False,
+            "byte_count": 2,
+        },
+        {
             "telemetry_id": 117,
             "name": "Exhaust Fan Duty",
             "translation_key": "exhaust_fan_duty",
