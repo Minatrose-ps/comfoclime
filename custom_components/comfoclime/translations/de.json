@@ -4,6 +4,9 @@
             "indoor_temperature": {
                 "name": "Innentemperatur"
             },
+            "days_to_replace_filter": {
+                "name": "Tage bis Filterwechsel"
+            },
             "outdoor_temperature": {
                 "name": "Außentemperatur"
             },
